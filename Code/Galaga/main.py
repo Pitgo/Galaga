@@ -21,7 +21,7 @@ BG = pygame.image.load("Sprites/Menus/Main_Menu.png")
 # Entities
 all_sprites = pygame.sprite.Group()
 all_sprites.add(player)
-for _ in range(1):
+for _ in range(2):
    all_sprites.add(big_bad)
 
 def play():
