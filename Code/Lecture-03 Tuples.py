@@ -1,0 +1,5 @@
+first_name = input("Name: ")
+last_name = input("Last name: ")
+credit_score = int(input("Credit score: "))
+person_info = (first_name, last_name, credit_score)
+print(f'First name: {person_info[0]}, Last name: {person_info[1]}, Credit score:{person_info[2]}')
