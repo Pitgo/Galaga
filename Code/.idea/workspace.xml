@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="94acd3a4-ca05-44c4-8d52-7af52c4d53fa" name="Changes" comment="GO" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2alsLQXErkXQIv1VfZENldPxwZO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Find_Smallest_Number.executor": "Run",
+    "Python.Lecture-02 Task.executor": "Run",
+    "Python.Lecture-09 Task-1.executor": "Run",
+    "Python.Lecture-12-13 Task-1.executor": "Run",
+    "Python.Lecture-12-13 Task-2.executor": "Run",
+    "Python.Lecture-14 Task-1.executor": "Run",
+    "Python.Lecture-14 Task-2.executor": "Run",
+    "Python.Lecture-14 Task-3.executor": "Run",
+    "Python.button.executor": "Run",
+    "Python.constants.executor": "Debug",
+    "Python.font.executor": "Run",
+    "Python.galaga.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.menus.executor": "Run",
+    "Python.play.executor": "Run",
+    "Python.player.executor": "Run",
+    "Python.setup.executor": "Run",
+    "Python.stars.executor": "Run",
+    "Python.tools.executor": "Debug",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/jdam1/OneDrive/Desktop",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jdam1\OneDrive\Desktop\Object Oriented Programming\Code\Galaga\Sprites\Menu" />
+      <recent name="C:\Users\jdam1\OneDrive\Desktop\Object Oriented Programming\Code\Galaga\Sprites\Pitgo" />
+      <recent name="C:\Users\jdam1\OneDrive\Desktop\Object Oriented Programming\Code\Galaga\Sprites" />
+      <recent name="M:\Object Oriented Programming\Code" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jdam1\OneDrive\Desktop\Object Oriented Programming\Code\Galaga" />
+      <recent name="C:\Users\jdam1\OneDrive\Desktop\Object Oriented Programming\Code\Galaga\Sprites\Menus" />
+      <recent name="C:\Users\jdam1\OneDrive\Desktop\Object Oriented Programming\Code\Galaga\Sprites" />
+      <recent name="C:\Users\jdam1\OneDrive\Desktop\Object Oriented Programming\Code\Galaga\Font" />
+      <recent name="C:\Users\jdam1\OneDrive\Desktop\Object Oriented Programming\Code\Galaga\Sprites\Pitgo" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Lecture 1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-50da183f06c8-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13135.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="94acd3a4-ca05-44c4-8d52-7af52c4d53fa" name="Changes" comment="" />
+      <created>1704904443789</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704904443789</updated>
+      <workItem from="1706716883690" duration="13000" />
+      <workItem from="1706889634045" duration="3000" />
+    </task>
+    <task id="LOCAL-00001" summary="GO">
+      <option name="closed" value="true" />
+      <created>1713733571549</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1713733571549</updated>
+    </task>
+    <task id="LOCAL-00002" summary="GO">
+      <option name="closed" value="true" />
+      <created>1713733693422</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1713733693422</updated>
+    </task>
+    <task id="LOCAL-00003" summary="GO">
+      <option name="closed" value="true" />
+      <created>1713733868118</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1713733868118</updated>
+    </task>
+    <task id="LOCAL-00004" summary="GO">
+      <option name="closed" value="true" />
+      <created>1713734188801</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1713734188801</updated>
+    </task>
+    <task id="LOCAL-00005" summary="GO">
+      <option name="closed" value="true" />
+      <created>1713735811678</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1713735811678</updated>
+    </task>
+    <task id="LOCAL-00006" summary="GO">
+      <option name="closed" value="true" />
+      <created>1713735834295</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1713735834295</updated>
+    </task>
+    <task id="LOCAL-00007" summary="GO">
+      <option name="closed" value="true" />
+      <created>1713735933425</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1713735933425</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="GO" />
+    <option name="LAST_COMMIT_MESSAGE" value="GO" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/AppData/Local/Temp/Rar$DIa16684.40635/galaga.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

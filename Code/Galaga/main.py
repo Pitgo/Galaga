@@ -8,7 +8,7 @@ from stars import create_stars
 
 # Entities
 from player import player
-from Enemies.bigbad import big_bad
+from Enemies.bigbad import big_bads
 
 pygame.init()
 
@@ -21,8 +21,7 @@ BG = pygame.image.load("Sprites/Menus/Main_Menu.png")
 # Entities
 all_sprites = pygame.sprite.Group()
 all_sprites.add(player)
-for _ in range(2):
-   all_sprites.add(big_bad)
+all_sprites.add(big_bads)
 
 def play():
     while True:
